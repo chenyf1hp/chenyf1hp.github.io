@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ziquan Lan on Ziquan LAN</title>
+    <link>https://ziquan111.github.io/authors/ziquan-lan/</link>
+    <description>Recent content in Ziquan Lan on Ziquan LAN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ziquan111.github.io/authors/ziquan-lan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Robust Point Cloud Based Reconstruction of Large-Scale Outdoor Scenes</title>
+      <link>https://ziquan111.github.io/publication/robust-point-cloud-based-reconstruction-of-large-scale-outdoor-scenes/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziquan111.github.io/publication/robust-point-cloud-based-reconstruction-of-large-scale-outdoor-scenes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Semantic Touch Interface for Flying Camera Photography</title>
+      <link>https://ziquan111.github.io/publication/a-semantic-touch-interface-for-flying-camera-photography/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziquan111.github.io/publication/a-semantic-touch-interface-for-flying-camera-photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving the Perspective-2-Point Problem for Flying-Camera Photo Composition</title>
+      <link>https://ziquan111.github.io/publication/solving-the-perspective-2-point-problem-for-flying-camera-photo-composition/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziquan111.github.io/publication/solving-the-perspective-2-point-problem-for-flying-camera-photo-composition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XPose: Reinventing User Interaction with Flying Cameras</title>
+      <link>https://ziquan111.github.io/publication/xpose-reinventing-user-interaction-with-flying-cameras/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziquan111.github.io/publication/xpose-reinventing-user-interaction-with-flying-cameras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robots in My Contact List: Using Social Media Platforms for Human-Robot Interaction in Domestic Environment</title>
+      <link>https://ziquan111.github.io/publication/robots-in-my-contact-list-using-social-media-platforms-for-human-robot-interaction-in-domestic-environment/</link>
+      <pubDate>Tue, 28 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziquan111.github.io/publication/robots-in-my-contact-list-using-social-media-platforms-for-human-robot-interaction-in-domestic-environment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

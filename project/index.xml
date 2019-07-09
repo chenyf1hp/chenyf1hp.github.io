@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ziquan LAN</title>
+    <link>https://ziquan111.github.io/project/</link>
+    <description>Recent content in Projects on Ziquan LAN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jul 2019 15:27:23 +0800</lastBuildDate>
+    
+	    <atom:link href="https://ziquan111.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Human Robot Interaction in Domestic Environment</title>
+      <link>https://ziquan111.github.io/project/human-robot-interaction-in-domestic-environment/</link>
+      <pubDate>Tue, 09 Jul 2019 15:27:23 +0800</pubDate>
+      
+      <guid>https://ziquan111.github.io/project/human-robot-interaction-in-domestic-environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Semantic Touch Interface for Flying Camera Photography</title>
+      <link>https://ziquan111.github.io/project/a-semantic-touch-interface-for-flying-camera-photography/</link>
+      <pubDate>Tue, 09 Jul 2019 15:27:00 +0800</pubDate>
+      
+      <guid>https://ziquan111.github.io/project/a-semantic-touch-interface-for-flying-camera-photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Robot Localization and Perception</title>
+      <link>https://ziquan111.github.io/project/multi-robot-localization-and-perception/</link>
+      <pubDate>Tue, 09 Jul 2019 15:26:41 +0800</pubDate>
+      
+      <guid>https://ziquan111.github.io/project/multi-robot-localization-and-perception/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
